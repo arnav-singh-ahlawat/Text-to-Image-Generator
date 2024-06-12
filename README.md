@@ -1,5 +1,7 @@
 # Text-to-Image Generation with Stable Diffusion
 
+![#IMAGE-SAMPLE](https://github.com/arnav-singh-ahlawat/Text-to-Image-Generator/assets/159664776/669e200a-35ce-40eb-80b6-cbe10d8fcf99)
+
 ## Overview:
 
 This project implements a state-of-the-art text-to-image generation system using Stable Diffusion, a powerful generative model framework. The system takes natural language descriptions as input and generates corresponding high-quality images. This repository contains the codebase and resources necessary to replicate and extend the functionality of the system.
